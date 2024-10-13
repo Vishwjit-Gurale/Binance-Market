@@ -1,0 +1,10 @@
+select, button {
+  margin: 10px;
+  padding: 8px;
+  font-size: 16px;
+}
+
+pre {
+  background: #f4f4f4;
+  padding: 10px;
+}
